@@ -8,6 +8,8 @@ require_once "./vendor/autoload.php";
 
 $pageTitle = "Hello World";
 
+echo hello();
+
 ?>
 
 <!DOCTYPE html>
