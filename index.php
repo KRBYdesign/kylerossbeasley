@@ -7,7 +7,7 @@ ini_set('display_startup_errors', 1);
 require_once "./vendor/autoload.php";
 
 $head = includeAndReplaceContents('./includes/head.php', [
-    'pageTitle' = "Kyle Ross Beasley",
+    'pageTitle' => "Kyle Ross Beasley",
 ]);
 
 ?>
