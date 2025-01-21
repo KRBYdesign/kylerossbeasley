@@ -15,6 +15,7 @@ $pageTitle = "Hello World";
     </head>
     <body>
         <h1>Kyle Ross Beasley</h1>
+        <p>Checking on updates</p>
     </body>
 </html>
 
