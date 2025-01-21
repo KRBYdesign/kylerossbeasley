@@ -13,10 +13,10 @@
     "require": {},
     "autoload" : {
         "files" : [
-            "/app/global.php"
+            "./app/global.php"
         ],
         "psr-4" : {
-            "App\\" : "app/"
+            "App\\" : "./app"
         }
     }
 }
