@@ -1,0 +1,22 @@
+{
+    "name": "kyle/kylerossbeasley",
+    "description": "the source code for my personal website",
+    "type": "project",
+    "license": "None",
+    "authors": [
+        {
+            "name": "Kyle Beasley",
+            "email": "kyle.beasley17@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload" : {
+        "files" : [
+            "/app/global.php"
+        ],
+        "psr-4" : {
+            "App\\" : "app/"
+        }
+    }
+}
