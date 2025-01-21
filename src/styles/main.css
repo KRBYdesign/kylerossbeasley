@@ -25,7 +25,14 @@ body, html {
     font-weight: 500;
 }
 
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
 .header {
+    max-width: 100ch;
     display: flex;
     flex-direction: row;
     justify-content: space-between;

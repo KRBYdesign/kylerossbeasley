@@ -1,11 +1,13 @@
-<header class='header'>
-    <p class='logo'>Kyle Beasley</p>
+<header>
+    <div class='header'>
+        <p class='logo'>Kyle Beasley</p>
 
-    <nav>
-        <a href='./' class='nav-link'>Home</a>
-        <a href='./about' class='nav-link'>About</a>
-        <a href='./blog' class='nav-link'>Blog</a>
-    </nav>
+        <nav>
+            <a href='./' class='nav-link'>Home</a>
+            <a href='./about' class='nav-link'>About</a>
+            <a href='./blog' class='nav-link'>Blog</a>
+        </nav>
+    </div>
 
     <div class='hamburger' aria-expanded='false'>
         <svg style="width:20px;height:20px" viewBox="0 0 20 20">
